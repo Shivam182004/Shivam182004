@@ -19,7 +19,7 @@ Computer science student!<br>Tech enthusiast!<br>Love to code!<br>Learner!
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### Rock Onn!
 <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
 
 ---
